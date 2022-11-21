@@ -2,7 +2,7 @@
 This project was made to tell about who I am, what I've learned, and add my projects to. As I learn more, my page will become more dynamic.
 
 ## Live Demo
-Preview:
+Preview: https://kaylajo838.github.io/portfolio-landing-page/
 
 ## Languages / Technologies
 - HTML/CSS
