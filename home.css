@@ -77,16 +77,12 @@ nav {
     align-items: center;
     padding: 20px;
     font-size: 80px;
-    width: 100%;
+    /* width: 100%; */
 }
 
 .main-section span {
     margin-left: -35px;
     color: red;
-}
-
-canvas {
-    position: relative;
 }
 
 
