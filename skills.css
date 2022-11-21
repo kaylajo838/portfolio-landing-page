@@ -16,6 +16,9 @@ main {
 }
 
 /* Navigation Styling */
+#active {
+    color: red;
+}
 
 nav {
     display: flex;
@@ -54,7 +57,7 @@ nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     background-color: rgb(58, 57, 57);
     color: white;
     padding: 20px;
@@ -64,6 +67,7 @@ nav {
 .nav-bar a {
     text-decoration: none;
     color: white;
+    font-size: 18px;
 }
 
 .nav-bar a:hover {
@@ -77,8 +81,8 @@ h1 {
 }
 
 hr {
-    color: white;
-    border: 1px solid white;
+    color: red;
+    border: 1px solid red;
     width: 100%;
 }
 
@@ -88,6 +92,14 @@ hr {
     justify-content: center;
     padding: 20px;
     font-size: 18px;
+}
+
+li {
+    color: red;
+}
+
+li span {
+    color: white;
 }
 
 
