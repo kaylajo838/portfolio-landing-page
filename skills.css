@@ -95,14 +95,6 @@ hr {
     font-size: 18px;
 }
 
-p:nth-of-type(4) {
-    margin-bottom: -25px;
-}
-
-p:nth-of-type(5) {
-    margin-top: -25px;
-}
-
 li {
     color: red;
 }
@@ -113,6 +105,7 @@ li span {
 
 .skills-list {
     font-size: 15px;
+    margin-top: 0;
 }
 
 /* Footer Styling */
