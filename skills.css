@@ -78,6 +78,7 @@ nav {
 /* Section Styling */
 h1 {
     font-size: 40px;
+    margin-bottom: 15px;
 }
 
 hr {
@@ -110,6 +111,9 @@ li span {
     color: white;
 }
 
+.skills-list {
+    font-size: 15px;
+}
 
 /* Footer Styling */
 footer {
